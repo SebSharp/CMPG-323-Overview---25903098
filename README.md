@@ -52,5 +52,7 @@ Will fail, because the password is incorrect, git then removes the offending use
 <code>git pull</code>
 to provide a new password so it works as earlier.
 
+Source: <cite>[https://www.pluralsight.com/guides/how-to-use-gitignore-file](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)</cite>
+
 ### List of Current Repositories <code>(Updated Regularly)</code>
 - <a href="https://github.com/SebSharp/](https://github.com/SebSharp/CMPG-323-Overview---25903098" target="_blank">CMPG 323 Repository</a> 
