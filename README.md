@@ -33,6 +33,7 @@ Source: <cite>https://www.pluralsight.com/guides/how-to-use-gitignore-file</cite
 A unique repository will be created for each individual project for submission purposes, except for <b>Project 1</b>, where the the existing module repository for CMPG 323 will act as its repository.
 
 ## Project Structure
+The project structure, as outlined in the main module repository's milestones, will be created on a per-project basis as the semester progresses. All of these projects (1-5) will be linked to the main module repository. Each project will have it's own Insights and Boards indicating process and detailed expected completion dates for the various tasks.
 
 ### List of Current Repositories <code>(Updated Regularly)</code>
 - <a href="https://github.com/SebSharp/](https://github.com/SebSharp/CMPG-323-Overview---25903098" target="_blank">CMPG 323 Repository</a> 
