@@ -36,7 +36,7 @@ A unique repository will be created for each individual project for submission p
 The project structure, as outlined in the main module repository's milestones, will be created on a per-project basis as the semester progresses. All of these projects (1-5) will be linked to the main module repository. Each project will have it's own Insights and Boards indicating process and detailed expected completion dates for the various tasks.
 
 ## Credential Management
-Run
+Credentials will be stored using <tt>git config<\tt> 
 
 <code>git config --global credential.helper store</code>
 then
