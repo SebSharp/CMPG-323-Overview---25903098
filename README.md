@@ -30,7 +30,7 @@ This file will be placed in the root of the CMPG main repository. It is worth ke
 Source: <cite>https://www.pluralsight.com/guides/how-to-use-gitignore-file</cite>
 
 ## Repository Structure
-
+A unique repository will be created for each individual project for submission purposes, except for <b>Project 1</b>, where the the existing module repository for CMPG 323 will act as its repository.
 
 ## Project Structure
 
