@@ -23,6 +23,9 @@ The main and develop branches are considered to be the main branches, with an in
 Source: <cite>https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase.</cite>
 
 ## Project <tt>.gitignore</tt> File
+The .gitignore file is a plain text file where each line contains a pattern for files/directories to ignore. 
+
+Generally, this is placed in the root folder of the repository, and that's what I recommend. However, you can put it in any folder in the repository and you can also have multiple .gitignore files. The patterns in the files are relative to the location of that .gitignore file.
 
 ## Project & Repository Structure
 
