@@ -22,6 +22,8 @@ The main and develop branches are considered to be the main branches, with an in
 
 Source: <cite>https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase.</cite>
 
+## Project <tt>.gitignore</tt> File
+
 ## Project & Repository Structure
 
 ### List of Repositories
