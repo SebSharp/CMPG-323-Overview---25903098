@@ -16,7 +16,7 @@ This strategy consists of the following branches:
 - Release: Help prepare a new production release
 - Hotfix: Branches arise from a bug that has been discovered and must be resolved
 
-<img src="https://www.flagship.io/wp-content/uploads/gitflow-branching-strategy.png" alt="Italian Trulli">
+<img src="https://www.flagship.io/wp-content/uploads/gitflow-branching-strategy.png" alt="">
 
 The main and develop branches are considered to be the main branches, with an infinite lifetime, while the rest are supporting branches that are meant to aid parallel development among developers, usually short-lived.
 
