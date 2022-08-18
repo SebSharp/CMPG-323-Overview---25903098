@@ -35,5 +35,22 @@ A unique repository will be created for each individual project for submission p
 ## Project Structure
 The project structure, as outlined in the main module repository's milestones, will be created on a per-project basis as the semester progresses. All of these projects (1-5) will be linked to the main module repository. Each project will have it's own Insights and Boards indicating process and detailed expected completion dates for the various tasks.
 
+## Credential Management
+Run
+
+<code>git config --global credential.helper store</code>
+then
+
+<code>git pull</code>
+provide a username and password and those details will then be remembered later. The credentials are stored in a file on the disk, with the disk permissions of "just user readable/writable" but still in plaintext.
+
+If you want to change the password later
+
+<code>git pull</code>
+Will fail, because the password is incorrect, git then removes the offending user+password from the ~/.git-credentials file, so now re-run
+
+<code>git pull</code>
+to provide a new password so it works as earlier.
+
 ### List of Current Repositories <code>(Updated Regularly)</code>
 - <a href="https://github.com/SebSharp/](https://github.com/SebSharp/CMPG-323-Overview---25903098" target="_blank">CMPG 323 Repository</a> 
