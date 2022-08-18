@@ -1,7 +1,7 @@
 # CMPG-323-Overview---25903098
 Module Content Repository for CMPG 323 2022
 
-## Branching Strategies
+## Branching Strategy
 The branching strategy I will be using is <tt>GitFlow</tt>
 
 GitFlow might be more complex and advanced for most modern projects, however it enables parallel development allowing for developers to work separately from the master branch on features where a feature branch is created from the master branch.
