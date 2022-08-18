@@ -29,7 +29,10 @@ This file will be placed in the root of the CMPG main repository. It is worth ke
 
 Source: <cite>https://www.pluralsight.com/guides/how-to-use-gitignore-file</cite>
 
-## Project & Repository Structure
+## Repository Structure
 
-### List of Repositories
+
+## Project Structure
+
+### List of Current Repositories <code>(Updated Regularly)</code>
 - <a href="https://github.com/SebSharp/](https://github.com/SebSharp/CMPG-323-Overview---25903098" target="_blank">CMPG 323 Repository</a> 
