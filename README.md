@@ -1,8 +1,8 @@
 # CMPG-323-Overview---25903098
-Module Repository for CMPG 323 2022
+Module Content Repository for CMPG 323 2022
 
 ## Branching Strategies
-
+The branching strategy I will be using is <tt>GitFlow</tt>
 
 ## Project & Repository Structure
 
