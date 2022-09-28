@@ -53,4 +53,5 @@ Source: <cite>https://stackoverflow.com/questions/35942754/how-can-i-save-userna
 ### List of Current Repositories <code>(Updated Regularly)</code>
 - <a href="https://github.com/SebSharp/](https://github.com/SebSharp/CMPG-323-Overview---25903098" target="_blank">CMPG 323 Repository</a> 
 - <a href="https://github.com/SebSharp/CMPG-323-Project-2---25903098" target="_blank">CMPG 323 Project 2</a> 
-- <a href="https://github.com/SebSharp/CMPG-323-Project-3---25903098="_blank">CMPG 323 Project 3</a> 
+- <a href="[https://github.com/SebSharp/CMPG-323-Project-2---25903098](https://github.com/SebSharp/CMPG-323-Project-3---25903098)" target="_blank">CMPG 323 Project 3</a> 
+
